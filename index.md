@@ -1,10 +1,4 @@
-# Aozhu Chen
-
-<!-- [[CV]](Chengbo_Dong_CV.pdf) -  -->
-
-You can use the [editor on GitHub](https://github.com/JewelChen2019/JewelChen2019.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!-- # Aozhu Chen -->
 
 ## About Me
 - I'm a 3rd year Ph.D. student in Computer Science at the [Information School](http://info.ruc.edu.cn/) at Renmin University of China. And I am advised by  Prof. [Xirong Li](http://lixirong.net/). My research interests mainly focus on multimedia computing, especially, text to video retireval. 
