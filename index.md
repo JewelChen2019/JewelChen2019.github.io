@@ -1,10 +1,11 @@
 <!-- # Aozhu Chen -->
 
 ## About Me
-- I'm a 3rd year Ph.D. student in Computer Science at the [Information School](http://info.ruc.edu.cn/) at Renmin University of China. And I am advised by  Prof. [Xirong Li](http://lixirong.net/). My research interests mainly focus on multimedia computing, especially, text to video retireval. 
+- I'm a 3rd-year Ph.D. student in Computer Science at the [Information School] (http://info.ruc.edu.cn/) at the Renmin University of China. And I am advised by Prof. [Xirong Li] (http://lixirong.net/). I received my B.S. and M.E. degrees from Chongqing University of Posts and Telecommunications, Chongqing, China, in 2016 and 2019, respectively.  
+- My research interests mainly focus on cross-modal computing, to be specific, image/video caption, text-to-video retrieval, and attack on cross-modal retrieval. I am mainly involved in an international leading benchmark evaluation for video retrieval by text, named TRECVID Ad-hoc Video Search, which has been funded by NIST. In addition, I have been paying more attention to how to use large-scale pre-trained visual-language models to achieve better performance in those downstream tasks recently.
 
 ## Publications
-- Fan Hu, **Aozhu Chen**, Ziyue Wang, Fangming Zhou, Xirong Li.  
+- Fan Hu\*, **Aozhu Chen**\*, Ziyue Wang\*, Fangming Zhou, Xirong Li.  
 [Lightweight Attentional Feature Fusion: A New Baseline for Text-to-Video Retrieval](https://arxiv.org/pdf/2112.01832.pdf). ECCV, 2022.   
 - Ziyue Wang\*, **Aozhu Chen**\*, Fan Hu, Xirong Li.  
 [Learn to Understand Negation in Video Retrieval](https://arxiv.org/pdf/2205.00132.pdf). ACMMM, 2022. 
@@ -21,36 +22,11 @@
 - Zeng Xianhua, **Chen Aozhu**, He Shanshan.  
 [Color Perception Algorithm of Medical Images Using Multi-features Fusion](). Journal of Computer-Aided Design & Computer Graphics, 2018.  
 
+## Competition experience
+- MM’21 Grand Challenge: Pretraining for video captioning, top 3
+- 2021 TREC Video Retrieval Evaluation (TRECVID) AVS, top 3
+- 2020 TREC Video Retrieval Evaluation (TRECVID) AVS, top 2
 
-<!-- 7. A three-dimensional MRI brain medical image colorization method (patent, authorized) -->
+## Honor
+National Scholarships 2019.  
 
-<!-- Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). -->
-
-<!-- ### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JewelChen2019/JewelChen2019.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
- -->
