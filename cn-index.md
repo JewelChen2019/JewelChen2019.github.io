@@ -5,7 +5,7 @@
 - 研究兴趣: 跨模态计算，主要有图像/视频描述文本生成，跨模态文本检索视频，以及基于文本的图像检索的攻击。最近醉心于如何应用大型预训练的跨模态（文本-视觉）模型在上述下游任务。
 - 联系我: caz@ruc.edu.cn or jewelchen229@gmail.com
 
-## Publications
+## 论文发表情况
 - Fan Hu\*, **Aozhu Chen**\*, Ziyue Wang\*, Fangming Zhou, Xirong Li.  
 [Lightweight Attentional Feature Fusion: A New Baseline for Text-to-Video Retrieval](https://arxiv.org/pdf/2112.01832.pdf). ECCV, 2022.   
 - Ziyue Wang\*, **Aozhu Chen**\*, Fan Hu, Xirong Li.  
@@ -23,11 +23,11 @@
 - Zeng Xianhua, **Chen Aozhu**, He Shanshan.  
 [Color Perception Algorithm of Medical Images Using Multi-features Fusion](). Journal of Computer-Aided Design & Computer Graphics, 2018.  
 
-## Competition experience
+## 竞赛经历
 - MM’21 Grand Challenge: Pretraining for video captioning, top 3
 - 2021 TREC Video Retrieval Evaluation (TRECVID) AVS, top 3
 - 2020 TREC Video Retrieval Evaluation (TRECVID) AVS, top 2
 
-## Honor
+## 获得荣誉
 国家奖学金 2019.  
 
