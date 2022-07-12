@@ -1,6 +1,6 @@
 <!-- # Aozhu Chen -->
 
-## About Me  [[中文]](cn_index.md) 
+## About Me  [[中文]](cn-index.md) 
 - I'm a 3rd-year Ph.D. student in Computer Science at the [Information School] (http://info.ruc.edu.cn/) at the Renmin University of China. And I have been advised by Prof. [Xirong Li] (http://lixirong.net/) from 2019 to now. I received my B.S. and M.E. degrees from Chongqing University of Posts and Telecommunications, Chongqing, China, in 2016 and 2019, respectively.  
 - My research interests mainly focus on cross-modal computing, to be specific, image/video caption, text-to-video retrieval, and attack on cross-modal retrieval. I am mainly involved in an international leading benchmark evaluation for video retrieval by text, named TRECVID Ad-hoc Video Search, which has been funded by NIST. In addition, I have been paying more attention to how to use large-scale pre-trained visual-language models to achieve better performance in those downstream tasks recently.
 - Contact me: caz@ruc.edu.cn or jewelchen229@gmail.com  
