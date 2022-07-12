@@ -20,7 +20,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - Zeng Xianhua, **Chen Aozhu**, He Shanshan. [Color Perception Algorithm of Medical Images Using Multi-features Fusion](). Journal of Computer-Aided Design & Computer Graphics, 2018.  
 
 
-7. A three-dimensional MRI brain medical image colorization method (patent, authorized)
+<!-- 7. A three-dimensional MRI brain medical image colorization method (patent, authorized) -->
 
 <!-- Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
