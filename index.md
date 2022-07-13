@@ -30,5 +30,5 @@
 - 2020 TREC Video Retrieval Evaluation (TRECVID) AVS, top 2
 
 ## Honor
-National Scholarships 2019.  
+National Scholarships 2018.  
 
