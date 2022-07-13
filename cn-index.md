@@ -3,7 +3,7 @@
 ## 关于我
 - [中国人民大学](http://info.ruc.edu.cn/)博士在读，导师为[李锡荣](http://lixirong.net/)教授。本科及硕士毕业于重庆邮电大学计算机科学与技术学院，主修网络技术和智能技术。
 - 研究兴趣: 跨模态计算，主要有图像/视频描述文本生成，跨模态文本检索视频，以及基于文本的图像检索的攻击。最近醉心于如何将大型预训练的跨模态（文本-视觉）模型应用在上述下游任务带来性能提升。
-- 联系我: caz@ruc.edu.cn or jewelchen229@gmail.com
+- 联系我: caz@ruc.edu.cn 或 jewelchen229@gmail.com
 
 ## 论文发表情况
 - Fan Hu\*, **Aozhu Chen**\*, Ziyue Wang\*, Fangming Zhou, Xirong Li.  
@@ -29,5 +29,5 @@
 - 2020 TREC Video Retrieval Evaluation (TRECVID) AVS, top 2
 
 ## 获得荣誉
-国家奖学金 2019.  
+国家奖学金 2018.  
 
